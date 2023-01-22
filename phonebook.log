@@ -1,0 +1,537 @@
+[20.01.2023 22:21:32 ] [INFO] [main] [<module>: 8] => Start
+[20.01.2023 22:38:18 ] [INFO] [main] [<module>: 10] => Start
+[20.01.2023 22:38:28 ] [INFO] [user_interface] [ls_menu: 24] => The user has selected item number 1
+[20.01.2023 22:38:34 ] [INFO] [user_interface] [ls_menu: 28] => The user has selected item number 2
+[20.01.2023 22:39:08 ] [INFO] [user_interface] [ls_menu: 30] => User entered: {search}
+[20.01.2023 22:40:03 ] [INFO] [user_interface] [ls_menu: 46] => The user has selected item number 5
+[20.01.2023 22:40:12 ] [INFO] [user_interface] [ls_menu: 48] => User entered: {name}
+[20.01.2023 22:40:24 ] [INFO] [user_interface] [ls_menu: 50] => User entered: {surname}
+[20.01.2023 22:40:37 ] [INFO] [user_interface] [ls_menu: 52] => User entered: {number}
+[20.01.2023 22:41:06 ] [INFO] [user_interface] [ls_menu: 54] => User entered: {email}
+[20.01.2023 22:43:35 ] [INFO] [user_interface] [ñhecking_the_number: 158] => User entered an invalid menu value: {arg}
+[20.01.2023 22:44:03 ] [INFO] [user_interface] [ñhecking_the_number: 158] => User entered an invalid menu value: {arg}
+[20.01.2023 23:00:31 ] [INFO] [bot] [main: 57] => The user has selected item number 4
+[20.01.2023 23:00:39 ] [INFO] [bot] [find_number: 100] => User entered: {number_it}
+[20.01.2023 23:01:45 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[20.01.2023 23:01:45 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 09:07:51 ] [INFO] [main] [<module>: 10] => Start
+[21.01.2023 21:10:03 ] [INFO] [main] [<module>: 10] => Start
+[21.01.2023 21:16:07 ] [INFO] [user_interface] [ls_menu: 24] => The user has selected item number 1
+[21.01.2023 21:16:10 ] [INFO] [user_interface] [ñhecking_the_number: 158] => User entered an invalid menu value: {arg}
+[21.01.2023 21:16:13 ] [INFO] [user_interface] [ls_menu: 24] => The user has selected item number 1
+[21.01.2023 21:16:20 ] [INFO] [user_interface] [ls_menu: 28] => The user has selected item number 2
+[21.01.2023 21:16:26 ] [INFO] [user_interface] [ls_menu: 30] => User entered: {search}
+[21.01.2023 21:16:41 ] [INFO] [user_interface] [ls_menu: 143] => End
+[21.01.2023 21:19:32 ] [INFO] [main] [<module>: 10] => Start
+[21.01.2023 21:35:36 ] [INFO] [user_interface] [ñhecking_the_number: 158] => User entered an invalid menu value: {arg}
+[21.01.2023 21:35:50 ] [INFO] [user_interface] [ls_menu: 148] => User entered an invalid menu value: {n}
+[21.01.2023 21:38:56 ] [INFO] [user_interface] [ñhecking_the_number: 158] => User entered an invalid menu value: {arg}
+[21.01.2023 21:38:56 ] [INFO] [user_interface] [ñhecking_the_number: 158] => User entered an invalid menu value: {arg}
+[21.01.2023 21:38:56 ] [INFO] [user_interface] [ñhecking_the_number: 158] => User entered an invalid menu value: {arg}
+[21.01.2023 22:07:55 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 22:07:55 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 22:09:45 ] [INFO] [bot] [main: 63] => The user has selected item number 5
+[21.01.2023 22:10:01 ] [INFO] [bot] [get_name: 109] => User entered: {name_it}
+[21.01.2023 22:10:11 ] [INFO] [bot] [get_surname: 117] => User entered: {surname_it}
+[21.01.2023 22:10:29 ] [INFO] [bot] [get_number: 125] => User entered: {number_it}
+[21.01.2023 22:10:44 ] [INFO] [bot] [get_email: 133] => User entered: {email_it}
+[21.01.2023 22:51:02 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 22:51:02 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 22:51:10 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 22:51:10 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 22:55:52 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 22:55:52 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:00:09 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:00:09 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:06:46 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:06:46 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:06:59 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:06:59 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:07:08 ] [INFO] [main] [<module>: 10] => Start
+[21.01.2023 23:07:21 ] [INFO] [user_interface] [ls_menu: 145] => Import_file
+[21.01.2023 23:07:24 ] [INFO] [user_interface] [ls_menu: 145] => Import_file
+[21.01.2023 23:07:31 ] [INFO] [user_interface] [ls_menu: 145] => Import_file
+[21.01.2023 23:09:59 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:09:59 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:13:04 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:13:04 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:14:44 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:14:44 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:14:52 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:14:52 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:28:56 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:28:56 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:29:10 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[21.01.2023 23:29:10 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "g:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 15, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[21.01.2023 23:29:13 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[21.01.2023 23:29:13 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "g:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 15, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[21.01.2023 23:29:16 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[21.01.2023 23:29:16 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "g:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 15, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[21.01.2023 23:29:19 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[21.01.2023 23:29:19 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "g:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 15, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[21.01.2023 23:29:46 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:29:46 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:30:18 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[21.01.2023 23:30:18 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "g:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 15, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[21.01.2023 23:30:21 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[21.01.2023 23:30:21 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "g:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 15, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[21.01.2023 23:30:57 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[21.01.2023 23:30:57 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[21.01.2023 23:31:08 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[21.01.2023 23:31:08 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "g:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "g:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 16, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[22.01.2023 20:33:45 ] [INFO] [main] [<module>: 10] => Start
+[22.01.2023 20:34:27 ] [INFO] [main] [<module>: 10] => Start
+[22.01.2023 20:34:37 ] [INFO] [user_interface] [ls_menu: 149] => End
+[22.01.2023 20:34:44 ] [INFO] [main] [<module>: 10] => Start
+[22.01.2023 20:34:47 ] [INFO] [user_interface] [ls_menu: 145] => Import_file
+[22.01.2023 20:34:52 ] [INFO] [user_interface] [ls_menu: 145] => Import_file
+[22.01.2023 20:35:03 ] [INFO] [user_interface] [ñhecking_the_number: 164] => User entered an invalid menu value: {arg}
+[22.01.2023 20:35:07 ] [INFO] [user_interface] [ls_menu: 149] => End
+[22.01.2023 20:39:53 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+[22.01.2023 20:39:53 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Program Files\Python38\lib\http\client.py", line 1344, in getresponse
+    response.begin()
+  File "C:\Program Files\Python38\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Program Files\Python38\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Program Files\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Program Files\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Program Files\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\connectionpool.py", line 451, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\urllib3\connectionpool.py", line 340, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1073, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 118, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 649, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 623, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates, long_polling_timeout)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\apihelper.py", line 156, in _make_request
+    result = _get_req_session().request(
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\requests\adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+[22.01.2023 20:41:23 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 20:41:23 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 20:42:16 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 20:42:16 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 20:42:36 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[22.01.2023 20:42:36 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "f:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 16, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[22.01.2023 20:47:39 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 20:47:39 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 20:48:38 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[22.01.2023 20:48:38 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "f:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 16, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[22.01.2023 20:50:06 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[22.01.2023 20:50:06 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "f:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 16, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[22.01.2023 20:51:31 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[22.01.2023 20:51:31 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "f:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 16, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[22.01.2023 20:52:44 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 20:52:44 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 20:53:00 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'filename'
+[22.01.2023 20:53:00 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 6395, in _run_middlewares_and_handler
+    result = handler['function'](message)
+  File "f:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 16, in answer
+    filename = msg.document.filename
+AttributeError: 'NoneType' object has no attribute 'filename'
+
+[22.01.2023 20:57:47 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 20:57:47 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 21:15:57 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 21:15:57 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 21:18:29 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 21:18:29 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 21:26:03 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 21:26:03 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 21:26:20 ] [INFO] [imexfile] [answer: 18] => User entered: /9
+[22.01.2023 21:26:43 ] [INFO] [imexfile] [answer: 22] => User entered: /10
+[22.01.2023 21:31:04 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 21:31:04 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 21:31:29 ] [INFO] [imexfile] [answer: 18] => User entered: /9
+[22.01.2023 21:31:29 ] [INFO] [imexfile] [answer: 20] => User imported the file
+[22.01.2023 21:34:24 ] [INFO] [imexfile] [answer: 23] => User entered: /10
+[22.01.2023 21:34:24 ] [INFO] [imexfile] [answer: 25] => User exported file "base_phone.csv"
+[22.01.2023 21:48:58 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 21:48:58 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 21:49:09 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 21:49:09 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 21:55:38 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 21:55:44 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 21:55:47 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 21:55:51 ] [INFO] [imexfile] [answer: 31] => User entered: /9
+[22.01.2023 21:55:51 ] [INFO] [imexfile] [answer: 33] => User imported the file
+[22.01.2023 22:00:01 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:00:01 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:00:19 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:00:22 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:00:24 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:00:30 ] [INFO] [imexfile] [answer: 31] => User entered: /9
+[22.01.2023 22:00:30 ] [INFO] [imexfile] [answer: 33] => User imported the file
+[22.01.2023 22:00:36 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[22.01.2023 22:00:36 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\imexfile.py", line 49, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[22.01.2023 22:01:19 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:01:19 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:01:22 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:01:22 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:01:49 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:01:54 ] [INFO] [imexfile] [answer: 31] => User entered: /9
+[22.01.2023 22:01:54 ] [INFO] [imexfile] [answer: 33] => User imported the file
+[22.01.2023 22:02:36 ] [INFO] [imexfile] [answer: 36] => User entered: /10
+[22.01.2023 22:02:37 ] [INFO] [imexfile] [answer: 38] => User exported file "base_phone.csv"
+[22.01.2023 22:04:31 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:04:31 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:04:38 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:04:38 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:04:55 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:04:59 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:05:01 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:05:01 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:05:02 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:05:10 ] [INFO] [imexfile] [answer: 41] => User entered an invalid menu value: {n}
+[22.01.2023 22:05:14 ] [INFO] [imexfile] [answer: 31] => User entered: /9
+[22.01.2023 22:05:14 ] [INFO] [imexfile] [answer: 33] => User imported the file
+[22.01.2023 22:06:03 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:06:03 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:06:06 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:06:06 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:06:14 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:06:14 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:06:49 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:06:49 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:19:47 ] [INFO] [imexfile] [answer: 34] => User entered an invalid menu value: {n}
+[22.01.2023 22:19:50 ] [INFO] [imexfile] [answer: 34] => User entered an invalid menu value: {n}
+[22.01.2023 22:19:52 ] [INFO] [imexfile] [answer: 34] => User entered an invalid menu value: {n}
+[22.01.2023 22:21:04 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:21:04 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:21:25 ] [INFO] [imexfile] [answer: 34] => User entered an invalid menu value: {n}
+[22.01.2023 22:21:27 ] [INFO] [imexfile] [answer: 34] => User entered an invalid menu value: {n}
+[22.01.2023 22:53:04 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:53:04 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:53:30 ] [INFO] [imexfile] [answer: 33] => User entered an invalid menu value: {n}
+[22.01.2023 22:53:33 ] [INFO] [imexfile] [answer: 33] => User entered an invalid menu value: {n}
+[22.01.2023 22:53:34 ] [INFO] [imexfile] [answer: 33] => User entered an invalid menu value: {n}
+[22.01.2023 22:53:35 ] [INFO] [imexfile] [answer: 33] => User entered an invalid menu value: {n}
+[22.01.2023 22:53:36 ] [INFO] [imexfile] [answer: 33] => User entered an invalid menu value: {n}
+[22.01.2023 22:54:25 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:54:25 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:56:28 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 22:56:28 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 22:57:01 ] [INFO] [imexfile] [answer: 35] => User entered an invalid menu value: {n}
+[22.01.2023 22:57:07 ] [INFO] [imexfile] [answer: 25] => User entered: /9
+[22.01.2023 22:57:08 ] [INFO] [imexfile] [answer: 27] => User imported the file
+[22.01.2023 22:57:14 ] [ERROR] [__init__] [infinity_polling: 960] => Infinity polling exception: 'NoneType' object has no attribute 'file_name'
+[22.01.2023 22:57:14 ] [ERROR] [__init__] [infinity_polling: 962] => Exception traceback:
+Traceback (most recent call last):
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 955, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1043, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1118, in __threaded_polling
+    raise e
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\__init__.py", line 1074, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 156, in raise_exceptions
+    raise self.exception_info
+  File "f:\GeekBrains training\Python\python\Phonebook_bot_development\env\lib\site-packages\telebot\util.py", line 100, in run
+    task(*args, **kwargs)
+  File "f:/GeekBrains training/Python/python/Phonebook_bot_development/imexfile.py", line 45, in answer
+    filename = msg.document.file_name
+AttributeError: 'NoneType' object has no attribute 'file_name'
+
+[22.01.2023 22:57:17 ] [INFO] [imexfile] [answer: 25] => User entered: /9
+[22.01.2023 22:57:18 ] [INFO] [imexfile] [answer: 27] => User imported the file
+[22.01.2023 22:58:02 ] [INFO] [imexfile] [answer: 30] => User entered: /10
+[22.01.2023 22:58:03 ] [INFO] [imexfile] [answer: 32] => User exported file "base_phone.csv"
+[22.01.2023 23:07:08 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 23:07:08 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 23:07:32 ] [ERROR] [__init__] [infinity_polling: 966] => Infinity polling: polling exited
+[22.01.2023 23:07:32 ] [ERROR] [__init__] [infinity_polling: 968] => Break infinity polling
+[22.01.2023 23:07:47 ] [INFO] [main] [<module>: 10] => Start
+[22.01.2023 23:07:48 ] [INFO] [main] [<module>: 10] => Start
